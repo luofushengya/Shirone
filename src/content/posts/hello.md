@@ -2,7 +2,7 @@
 title: 欢迎来到清浮月的小站
 published: 2026-11-02
 pinned: true
-description: 折腾了一下午，我的博客终于上线啦！这里记录我的生活与热爱，以及那些折腾踩坑的日常。
+description: 折腾了一下午，我的博客终于上线啦！这里记录我的生活与热爱，以及那些折腾踩坑日常。
 category: 随笔
 tags:
   - 日常
