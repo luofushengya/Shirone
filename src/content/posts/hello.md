@@ -2,7 +2,7 @@
 title: 欢迎来到清浮月的小站
 published: 2026-11-02
 pinned: true
-cover: "https://i.imgs.ovh/2026/11/02/a15a347f6e3326935b717e59801896ff.jpg"
+cover: "https://cdn.jsdelivr.net/gh/LyraVoid/Shirone@main/public/images/default-cover.webp"
 description: 折腾了一下午，我的博客终于上线啦！这里记录我的生活与热爱。
 category: 随笔
 tags:
