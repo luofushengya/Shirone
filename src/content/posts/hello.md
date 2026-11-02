@@ -7,7 +7,7 @@ category: 随笔
 tags:
   - 日常
   - 建站
-cover: "https://images.unsplash.com/photo-1578632767115-351597cf2477?q=80&w=1200&auto=format&fit=crop"
+cover: "https://picui.ogmua.cn/s1/2026/11/02/6ae835df0d4ca.webp"
 ---
 
 ## 👋 你好，世界！
