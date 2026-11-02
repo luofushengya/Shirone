@@ -20,7 +20,7 @@ tags:
 
 敲下这行字的时候，我觉得今天所有的折腾都是值得的。
 
-![美丽的风景](/images/moments/placeholder.webp)
+![美丽的风景](https://i.imgs.ovh/2026/11/02/a15a347f6e3326935b717e59801896ff.jpg)
 
 ## 🛠️ 关于建站的碎碎念
 
